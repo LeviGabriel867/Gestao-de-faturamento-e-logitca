@@ -1,6 +1,6 @@
 # Gestão de faturamento e logítica
 ## Descrição
-A solução de gestão de faturamento e logística é uma plataforma power BI abrangente e integrada que visa otimizar todos os aspectos do processo, desde o recebimento do pedido até a entrega do produto ao cliente. Com recursos avançados e uma abordagem holística, ela permite uma gestão eficiente de todas as etapas envolvidas.
+A solução de gestão de faturamento e logística é uma plataforma desenvolvida com  power BI abrangente e integrada que visa otimizar todos os aspectos do processo, desde o recebimento do pedido até a entrega do produto ao cliente. Com recursos avançados e uma abordagem holística, ela permite uma gestão eficiente de todas as etapas envolvidas.
 
 No que diz respeito ao faturamento, a solução automatiza e simplifica a geração de faturas, permitindo o acompanhamento preciso de transações financeiras. Ela integra-se a sistemas de pagamento, possibilitando o processamento seguro e ágil de transações. Além disso, fornece relatórios detalhados sobre faturamento e receitas, permitindo uma análise aprofundada do desempenho financeiro.
 
